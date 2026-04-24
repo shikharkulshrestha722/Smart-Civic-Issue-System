@@ -25,7 +25,7 @@ This project is an intelligent civic issue management platform that uses machine
 4. DBSCAN groups similar complaints together
 5. System assigns tasks intelligently based on location and workload
 
-#Impact
+##Impact
 1. Reduces duplicate complaints
 2. Improves response time for civic issues
 2. Enables smarter resource allocation for municipal authorities
